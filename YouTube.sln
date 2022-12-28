@@ -17,9 +17,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DictionaryExample", "Dictio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegatesExample", "DelegatesExample\DelegatesExample.csproj", "{B921FDD0-18B8-4EB2-98C7-C68794E3475D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSONDemo", "JSONDemo\JSONDemo.csproj", "{6E6E4D0B-0464-4F00-A587-9366D6B25031}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JSONDemo", "JSONDemo\JSONDemo.csproj", "{6E6E4D0B-0464-4F00-A587-9366D6B25031}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSONDemo1", "JSONDemo1\JSONDemo1.csproj", "{9E4EA751-63A8-4BE5-A449-30BFE35CBF1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JSONDemo1", "JSONDemo1\JSONDemo1.csproj", "{9E4EA751-63A8-4BE5-A449-30BFE35CBF1E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KudvenkatBasics", "..\..\KudvenkatBasics\KudvenkatBasics\KudvenkatBasics\KudvenkatBasics.csproj", "{CC5508E6-F2BC-4B84-A2CF-3B9A6D216BE3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UdemyLearn", "..\..\UdemyLearn\UdemyLearn\UdemyLearn.csproj", "{A1BA9323-06D7-4393-8CCD-B18F5015A4B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{2C74BD13-34ED-4B66-A957-51BA25F46C36}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +69,18 @@ Global
 		{9E4EA751-63A8-4BE5-A449-30BFE35CBF1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E4EA751-63A8-4BE5-A449-30BFE35CBF1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E4EA751-63A8-4BE5-A449-30BFE35CBF1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC5508E6-F2BC-4B84-A2CF-3B9A6D216BE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC5508E6-F2BC-4B84-A2CF-3B9A6D216BE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC5508E6-F2BC-4B84-A2CF-3B9A6D216BE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC5508E6-F2BC-4B84-A2CF-3B9A6D216BE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1BA9323-06D7-4393-8CCD-B18F5015A4B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1BA9323-06D7-4393-8CCD-B18F5015A4B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1BA9323-06D7-4393-8CCD-B18F5015A4B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1BA9323-06D7-4393-8CCD-B18F5015A4B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C74BD13-34ED-4B66-A957-51BA25F46C36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C74BD13-34ED-4B66-A957-51BA25F46C36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C74BD13-34ED-4B66-A957-51BA25F46C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C74BD13-34ED-4B66-A957-51BA25F46C36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
