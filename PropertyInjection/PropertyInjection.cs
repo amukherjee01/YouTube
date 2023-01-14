@@ -38,6 +38,7 @@
 
             Account ca = new Account() { account = new Current() };
             ca.PrintAccountDetails();
+            Console.WriteLine("hello world");
            
         }
 	}
